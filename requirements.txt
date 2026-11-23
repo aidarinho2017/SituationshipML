@@ -1,0 +1,9 @@
+datasets>=4.0,<5
+jupyter>=1.1,<2
+matplotlib>=3.8,<4
+numpy>=1.26,<3
+pandas>=2.2,<3
+scikit-learn>=1.5,<2
+sentencepiece>=0.2,<1
+torch>=2.2
+transformers>=4.40,<5
