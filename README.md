@@ -7,6 +7,8 @@ Situationship AI is a self-hosted Telegram conversation analyzer. It turns a Tel
 
 The project is deliberately not a relationship oracle. It measures patterns visible in the messages and never claims to know what either person secretly feels.
 
+![Situationship AI landing page](docs/images/home.png)
+
 ## What it includes
 
 - Editorial, responsive Next.js interface with Recharts visualizations
